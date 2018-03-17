@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\thi\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context.xml",
+        "source": "E:\\android\\thi\\app\\src\\main\\res\\menu\\context.xml"
+    },
+    {
+        "merged": "E:\\android\\thi\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\android\\thi\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]
